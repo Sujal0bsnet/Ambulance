@@ -1,0 +1,3 @@
+username=None
+isAdmin=False
+
